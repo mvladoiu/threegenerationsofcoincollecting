@@ -4,6 +4,8 @@ Browse,/browse.html
 Locations,/locations.html
 Map,/map.html
 Timeline,/timeline.html
-About,/about.html
+About
+FAQ,/faq.html,About
+Glossary,/glossary.html,About
 Rights,/rights.html
 
