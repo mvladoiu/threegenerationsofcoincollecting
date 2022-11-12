@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,sort_creator
+creator,Creator,,,
 subject,,true
 location,,true
 status,Status,,,
