@@ -23,7 +23,7 @@ browse-buttons: true
 ##########
 # SUBJECTS PAGE
 #
-subjects-fields: description
+subjects-fields: subject
 subjects-min: 3
 subjects-stopwords: 
 
