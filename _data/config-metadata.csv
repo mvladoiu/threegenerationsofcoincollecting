@@ -1,15 +1,14 @@
 field,display_name,browse_link,external_link
 title,Title,
 date,Date Circulated,
-lettering; Lettering
+lettering,Lettering,,
 description,Description,
 subject,Subjects,true
 location,Location
-issuer, Issuing Entity
-collector; Collector
-identifier,Source Identifier,,
-status; Status
-material; Material
-currency; Currency
-denomination; Denomination
-size; Size
+issuer,Issuing Entity,,
+collector;Collector,,
+status;Status,,
+material;Material,,
+currency;Currency,,
+denomination;Denomination,,
+size;Size,,
