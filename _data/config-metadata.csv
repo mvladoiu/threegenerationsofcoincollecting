@@ -7,8 +7,8 @@ subject,Subjects,true
 location,Location
 issuer,Issuing Entity,,
 collector;Collector,,
-status;Status,,
-material;Material,,
-currency;Currency,,
-denomination;Denomination,,
-size;Size,,
+status,Status,,
+material,Material,,
+currency,Currency,,
+denomination,Denomination,,
+size,Size,,
