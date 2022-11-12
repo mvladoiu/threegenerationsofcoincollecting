@@ -9,7 +9,11 @@ In 1951, six countries (Belgium, France, Germany, Italy, Luxembourg, the Netherl
 <br>
 <br>
 Today, nineteen of these countries use the Euro (Austria, Belgium, Cyprus, Estonia, Finland, France, Germany, Greece, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Portugal, Slovakia, Slovenia, Spain). Prior to the introducation of the Euro, each country had their own individual currencies.     
+<<<<<<< HEAD
 ![a 2 euro coin](threegenerationsofcoincollecting/images/euro.jpg)
+=======
+![a 2 euro coin](/images/euro.jpg)
+>>>>>>> ad7aec9c7bb17170753697b3f627195884ad829c
 
 <br>
 <br>
