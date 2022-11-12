@@ -10,7 +10,6 @@ However, we knew the story behind the majority of the coins. We assumed that thi
 And then we discovered this:  
 <img src="https://github.com/mvladoiu/threegenerationsofcoincollecting/blob/main/images/013b.jpg?raw=true" width="792" height="341">
 
-![500 riel](https://github.com/mvladoiu/threegenerationsofcoincollecting/blob/main/images/013b.jpg?raw=true)
 <br>
 and this:     
 ![100 pesos](https://github.com/mvladoiu/threegenerationsofcoincollecting/blob/main/images/014b.jpg?raw=true)
