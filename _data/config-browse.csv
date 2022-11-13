@@ -3,6 +3,6 @@ date,Date,,,Date
 subject,,true
 location,,true
 status,Status,,,
-currency,,,
+currency,Currency,,
 collector,Collector,,
 type,Type,,
