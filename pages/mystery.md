@@ -22,7 +22,7 @@ Now, to the best of our knowledge, David never visited Cambodia or the Philippin
 ### Grab Bag
 While David wasn't known for buying coins, it is within the realm of possibility that he would purchase some kind of grab bag or mystery box from an auction or antique store. He would have enjoyed the excitement of seeing what small treasures someone else had cast off. Perhaps that's how he came to be in possession of a 10 pfennig coin from the German Empire in 1898.
 <br>
-<img src="https://github.com/mvladoiu/threegenerationsofcoincollecting/blob/main/images/0346b.jpg?raw=true" width="205" height="178.25"> 
+<img src="https://github.com/mvladoiu/threegenerationsofcoincollecting/blob/main/images/046b.jpg?raw=true" width="205" height="178.25"> 
 <br>
 ### Family
 Another possibility is that much like his contributions to his daughter's collection, or her contributions to *her* daughter's collection, he was given tokens from his parents' travels. They were the wealthiest family in their town at the time, and are known to have traveled to Cuba. Could they have given him the 1946 centavo?
