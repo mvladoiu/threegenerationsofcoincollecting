@@ -19,6 +19,7 @@ home-banner-image-position: # Default is center
 #
 # see _data/metadata-config.csv to define the metadata fields that will display.
 browse-buttons: true 
+zoom-level: 3
 
 # SUBJECTS PAGE
 #
