@@ -50,4 +50,13 @@ Size gives width x height in millimeters for banknotes and the diameter in milli
 Material describes what the item is made out of; either paper or the specific metal used.
 <br>
 <br>
-Symbol gives the graphic symbol denoting a currency. 
+Symbol gives the graphic symbol denoting a currency. Symbols were found at https://www.xe.com/symbols/ and https://unicode.org/charts/PDF/U20A0.pdf 
+<br>
+<br>
+Status has the options of current or historical. In some cases, the name is the same or very similar, however this refers to whether or not the coin or banknote is current legal tender. See [Glossary](https://mvladoiu.github.io/threegenerationsofcoincollecting/glossary.html) for more information. 
+<br>
+<br>
+Subject is a concise list of people, places, objects, animals, etc. that are depicted on the coin or banknote. 
+<br>
+<br>
+All elements are required, however in some cases it might require an estimate or alternative (i.e. inexact dates, lack of ISO currency code, lack of official symbol). All elements are non-repeating, although subject can have multiple values separated by commas.
