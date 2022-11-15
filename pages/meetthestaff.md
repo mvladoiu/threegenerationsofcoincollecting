@@ -6,7 +6,7 @@ permalink: /meetthestaff.html
 
 # Meet the Staff
 
-# # Megan Vladoiu
+## Megan Vladoiu
 <img src="https://github.com/mvladoiu/threegenerationsofcoincollecting/blob/main/images/staff.JPG?raw=true" width="391" height="293">
 <br>
 Pictured above: Megan in Granada, Spain in 2018.
