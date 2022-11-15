@@ -9,13 +9,14 @@ permalink: /metadataprofile.html
 <br>
 The following elements are available for use: Object ID, Filename, Title, Format, Latitude, Longitude, Date, Location, Issuer, Lettering, Description, Type, Collector, Currency, Denomination, Size, Material, Symbol, Status, and Subject. 
 <br>
+<br>
 The metadata for this library followed the following guidelines:
 <br>
 <br>
 Object ID, Filename, Title, and Format were all formatted according to the requirements of [Collection Builder](https://collectionbuilder.github.io/cb-docs/docs/metadata/gh_metadata/). 
 <br>
 <br>
-Latitude and longitude for map functionality were found at https://developers.google.com/public-data/docs/canonical/countries_csv 
+Latitude and longitude for map functionality were found at [Public Data](https://developers.google.com/public-data/docs/canonical/countries_csv) 
 <br>
 <br>
 Date followed ISO format "yyyy". When possible, the date was taken directly from the coin or banknote. For the banknotes that didn't have dates, research was ddone to find when the notes were printed and a range was given, if necessary. 
